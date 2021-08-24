@@ -3,7 +3,7 @@ use Mix.Config
 # Configure your database
 config :management_api, ManagementApi.Repo,
   username: "postgres",
-  password: "postgres",
+  password: "Amirah123",
   database: "management_api_dev",
   hostname: "localhost",
   show_sensitive_data_on_connection_error: true,
